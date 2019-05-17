@@ -1,3 +1,5 @@
+![alt text](https://i.ibb.co/2810rfp/Screen-Shot-2019-05-17-at-7-37-45-PM.png)
+
 #### How to build
 ```
     1. install Docker > https://docs.docker.com/docker-for-windows/install/
