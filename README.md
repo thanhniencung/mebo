@@ -8,7 +8,7 @@
 
 #### How to use 
 
-##### 1.Config
+##### 1. Config
 ```
     go to > mebo/cmd/main.go and fill your config
     const (
