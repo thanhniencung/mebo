@@ -58,4 +58,4 @@
 
 ##### 5. check email template
 ```
-    you can check email template at mebo/mail_template.html
+    you can check email template at mebo/template/mail_template.html
