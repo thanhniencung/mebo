@@ -1,0 +1,16 @@
+version: '2'
+
+services:
+  backend:
+    container_name: mibo
+    image: mibo
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+
+  db:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"
